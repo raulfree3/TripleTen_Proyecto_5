@@ -6,3 +6,5 @@ Generamos 3 gráficos:
 -Histograma 
 -Gráfico de dispersión
 -Boxplot
+
+**Link a la aplicación**: https://tripleten-proyecto-5.onrender.com
